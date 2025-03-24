@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 841.89 595.28">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Degradado_sin_nombre_7102);
+      }
+
+      .st1 {
+        fill: url(#Degradado_sin_nombre_7103);
+      }
+
+      .st2 {
+        fill: url(#Degradado_sin_nombre_7101);
+      }
+
+      .st3 {
+        font-family: Rockwell-Regular, Rockwell;
+        font-size: 76.68px;
+      }
+
+      .st4 {
+        fill: url(#Degradado_sin_nombre_710);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_710" data-name="Degradado sin nombre 710" x1="238.21" y1="214.94" x2="655.14" y2="214.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".04" stop-color="#1d1d1b"/>
+      <stop offset=".77" stop-color="#3d72b8"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_7101" data-name="Degradado sin nombre 710" x1="322" y1="307.69" x2="435.57" y2="307.69" xlink:href="#Degradado_sin_nombre_710"/>
+    <linearGradient id="Degradado_sin_nombre_7102" data-name="Degradado sin nombre 710" x1="946.22" y1="273.36" x2="1630.17" y2="273.36" xlink:href="#Degradado_sin_nombre_710"/>
+    <linearGradient id="Degradado_sin_nombre_7103" data-name="Degradado sin nombre 710" x1="1083.67" y1="425.52" x2="1269.98" y2="425.52" xlink:href="#Degradado_sin_nombre_710"/>
+  </defs>
+  <text class="st3" transform="translate(162.21 458.13)"><tspan x="0" y="0">ÁNGEL MEJÍA </tspan></text>
+  <g>
+    <path class="st4" d="M238.21,349.06h81.75l2.04-2.6,60.66-77.53,51.24-65.49s2.04,98.1,56.71,145.62h102.7s56.71-42.41,61.82-108.83h-57.74s-1.02,40.36-51.6,83.28c0,0-45.47-44.96-49.56-81.24,0,0-24.01-86.86,36.79-161.46h-62.85l-231.97,268.24Z"/>
+    <path class="st2" d="M418.13,269.08l-35.47-.15-60.66,77.53s57.11-38.82,113.57-32.85l-17.44-44.53Z"/>
+  </g>
+  <g>
+    <path class="st0" d="M946.22,493.38h134.11l3.34-4.27,99.51-127.18,84.06-107.43s3.35,160.93,93.04,238.88h168.47s93.04-69.57,101.42-178.53h-94.71s-1.68,66.22-84.66,136.62c0,0-74.6-73.76-81.3-133.27,0,0-39.39-142.49,60.35-264.86h-103.1l-380.53,440.04Z"/>
+    <path class="st1" d="M1241.36,362.17l-58.18-.24-99.51,127.18s93.69-63.68,186.31-53.89l-28.62-73.05Z"/>
+  </g>
+</svg>
